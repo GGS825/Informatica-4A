@@ -1,0 +1,31 @@
+ /* ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+    Regole:
+    1)Quando il denominatore=1,si stampa solo il numeratore(nel MAIN e nel metodo confronto())
+    
+    
+    2)Quando il numeratore>0 e il denominatore<0,si cambiano i segni per rendere bella da visuallizzare(nel metodo sempli())
+    
+    
+    3)Quando il numeratore e il denominatore tutte 2 sono negative,allora la frazione si diventa positiva(nel metodo sempli())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/

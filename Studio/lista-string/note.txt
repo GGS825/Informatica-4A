@@ -1,0 +1,12 @@
+
+
+
+1.si usa una classe list per creare la lista
+2.per fare giustamente la paragona cioè in ordine dei nomi,utillizza il metodo transform() dell libereria <algorithm>
+3.tolower permette di trasformare da Maiuscolo in minuscolo
+4.toupper permette di trasformare da minuscolo in Maiuscolo
+
+
+domanda:
+       1.come mai non si può inserire direttamente un nome come parametro? /Main riga 51-55
+       2.Nella interfaccia verso cliente del main,durante l'inserimento il ciclo viene interrotta dopo qualche volte di eseguito(incerte volte) /Main riga 70-113

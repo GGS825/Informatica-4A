@@ -1,0 +1,8 @@
+/*
+
+1.Il numero di dimensione deve essere maggiore di 0;
+
+
+
+
+*/

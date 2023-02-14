@@ -1,0 +1,4 @@
+1.fscanf non è un comando della stampa,in praticamente tira direttamente la presenza della variabile fuori dalla memoria massa,
+         dopo di avere eseguito  fscanf,la variabile nella file verrebbe spostato
+2. Il modo di aprire un file,ci sono (r,w,a ,r+,w+,a+ ecc.),ma no tipo "rw"
+3.fprintf non sposta la variabile nella RAM
